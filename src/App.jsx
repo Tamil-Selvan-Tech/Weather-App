@@ -186,7 +186,7 @@ const App = () => {
 
         <div className="copy-right">
           <p>
-            Designed By <span>TAMIL</span>
+            Designed By <span><a href="https://github.com/Tamil-Selvan-Tech">TAMIL</a></span>
           </p>
         </div>
 
