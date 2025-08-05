@@ -271,15 +271,20 @@ body {
 }
 
 @media (max-width: 480px) {
+    body{
+        margin-left: 35px;
+    }
    
 
     .main-container {
-        padding: 20px 40px;
+        padding: 20px 30px;
+        /* width: 350px; */
 
     }
 
     .cityInput {
         font-size: 15px;
+        /* width: 100%; */
     }
 
     .temp {
