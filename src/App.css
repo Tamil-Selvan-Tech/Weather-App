@@ -273,12 +273,13 @@ body {
 @media (max-width: 480px) {
     body{
         margin-left: 35px;
+        
     }
    
 
     .main-container {
         padding: 20px 30px;
-        /* width: 350px; */
+        width: 300px;
 
     }
 
