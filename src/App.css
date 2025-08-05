@@ -273,8 +273,9 @@ body {
 
 @media (max-width: 480px) {
     body{
-        margin-left: 25px;
+        margin-left: 15px;
         height: 100vh;
+        width: 100%;
 
         
     }
@@ -305,7 +306,7 @@ body {
     .search-icon img {
         height: 15px;
         width: 15px;
-        margin-right: 35px;
+        margin-right: 45px;
         
         
         
